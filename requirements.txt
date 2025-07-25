@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain-together==0.1.4
+langchain-community==0.0.34
+cohere
+python-dotenv
