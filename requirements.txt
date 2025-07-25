@@ -1,6 +1,6 @@
-fastapi
-uvicorn
+fastapi==0.109.2
+uvicorn==0.27.1
+python-dotenv==1.0.1
 langchain-together==0.1.4
 langchain-community==0.0.34
-cohere
-python-dotenv
+supabase==2.3.1
