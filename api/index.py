@@ -7,8 +7,8 @@ import json
 import os
 
 # API Keys from environment
-TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY", "your_default_together_api_key")
-COHERE_API_KEY = os.getenv("COHERE_API_KEY", "your_default_cohere_key")
+TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY", "da20b11f2f9a2f51a62573f274f3a49a37002b67d1f6c511ed56de266ad0271b")
+COHERE_API_KEY = os.getenv("COHERE_API_KEY", "your_cohere_api_key_here")
 
 # Load dataset
 try:
